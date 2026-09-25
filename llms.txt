@@ -1,0 +1,40 @@
+# Intellia Works
+
+> Intellia Works is Kelvin Silva's personal advisory brand. Kelvin Silva is an ex-Meta software systems engineer, technical strategic advisor, and the sole founder and owner of Intellia Works. He has 7 years of experience across data infrastructure, AI, and privacy, and advises startups on AI and data infrastructure.
+
+Contact: hello@intelliaworks.com
+LinkedIn: https://www.linkedin.com/in/kelvinsilva747/
+About: https://www.intelliaworks.com/#/about
+Contact page: https://www.intelliaworks.com/#/contact
+
+## Advisory services
+
+- [Engineering Design](https://www.intelliaworks.com/#/services): Architecture choices, interfaces, data flows, build-versus-buy options, technical direction, risks, and execution sequencing.
+- [Software Testing](https://www.intelliaworks.com/#/services): System behavior, failure modes, test coverage, data quality, and operational readiness.
+- [Technical Support](https://www.intelliaworks.com/#/services): Diagnosis of systems issues, integration failures, and delivery blockers.
+- [Strategy Advisory](https://www.intelliaworks.com/#/services): AI adoption, data infrastructure, technical diligence, roadmap trade-offs, and organizational risk.
+
+## Insights
+
+- [Hermes model rankings](https://www.intelliaworks.com/#/insights/hermes-model-rankings): Twenty API models ranked for coding ability, cost, speed, reasoning control, and Nous Portal availability.
+- [AI automation agents comparison](https://www.intelliaworks.com/#/insights/ai-automation-agents-comparison): Nine automation agents compared across background jobs, browser control, scheduling, integrations, safety, cost, and availability.
+- [AI in 2030](https://www.intelliaworks.com/#/insights/ai-in-2030): How accountable AI may become part of ordinary business workflows and what should remain human.
+- [Using AI in airgapped and secure environments](https://www.intelliaworks.com/#/insights/secure-environment-ai): Data boundaries, private retrieval, evidence, and operating models for sensitive work.
+- [Aerial imagery, insurance, and claims review](https://www.intelliaworks.com/#/insights/aerial-imagery-insurance-claims): Visual triage with source visibility and qualified human review.
+- [Construction and property inspection with visual AI](https://www.intelliaworks.com/#/insights/construction-property-inspection): Image metadata, defect review, progress comparison, and evidence handoffs.
+- [AI for law firms without cloud exposure](https://www.intelliaworks.com/#/insights/law-firms): Matter-scoped retrieval, citations, bounded tasks, and lawyer review.
+- [AI for accounting and tax firms](https://www.intelliaworks.com/#/insights/accounting-tax-firms): Permission-aware search and synthesis across client records and firm guidance.
+- [Turning internal procedures into an operational AI assistant](https://www.intelliaworks.com/#/insights/business-operators): Source-of-truth management, procedure-grounded answers, and escalation rules.
+
+## Selected projects
+
+- [Local Docs Chat](https://www.intelliaworks.com/#/projects/local-docs-chat): Private document intelligence with source-grounded answers across business files.
+- [Local Images Chat](https://www.intelliaworks.com/#/projects/local-images-chat): Private visual search and inspection triage with provenance and expert verification.
+- [Video Review AI](https://www.intelliaworks.com/#/projects/video-review-ai): Natural-language retrieval of people, vehicles, objects, events, and scene changes in recorded footage.
+- [Forge Social](https://www.intelliaworks.com/#/projects/forge-social): AI-assisted content operations connecting brand knowledge, research, planning, publishing, and engagement workflows.
+
+## Site indexes
+
+- [All insights](https://www.intelliaworks.com/#/insights)
+- [All projects](https://www.intelliaworks.com/#/projects)
+- [Newsletter](https://www.intelliaworks.com/#/newsletter)
