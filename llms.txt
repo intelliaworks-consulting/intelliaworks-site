@@ -2,7 +2,6 @@
 
 > Intellia Works is Kelvin Silva's personal advisory brand. Kelvin Silva is an ex-Meta software systems engineer, technical strategic advisor, and the sole founder and owner of Intellia Works. He has 7 years of experience across data infrastructure, AI, and privacy, and advises startups on AI and data infrastructure.
 
-Contact: hello@intelliaworks.com
 LinkedIn: https://www.linkedin.com/in/kelvinsilva747/
 About: https://www.intelliaworks.com/#/about
 Contact page: https://www.intelliaworks.com/#/contact
