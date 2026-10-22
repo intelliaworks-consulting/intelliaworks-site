@@ -8,6 +8,8 @@ Contact page: https://www.intelliaworks.com/#/contact
 
 ## Advisory services
 
+- [Technical Blocker Resolution](https://www.intelliaworks.com/#/services/technical-blocker-resolution): One focused hour on the blocker that matters most — stuck architectures, scaling walls, design reviews, and data or infrastructure puzzles.
+- [Agentic & Autonomous AI Site Reliability Engineering](https://www.intelliaworks.com/#/services/agentic-autonomous-ai-site-reliability-engineering): Production-engineering review of agent behavior, dependencies, permissions, observability, failure handling, performance, cost, and operational controls.
 - [Engineering Design](https://www.intelliaworks.com/#/services): Architecture choices, interfaces, data flows, build-versus-buy options, technical direction, risks, and execution sequencing.
 - [Software Testing](https://www.intelliaworks.com/#/services): System behavior, failure modes, test coverage, data quality, and operational readiness.
 - [Technical Support](https://www.intelliaworks.com/#/services): Diagnosis of systems issues, integration failures, and delivery blockers.
